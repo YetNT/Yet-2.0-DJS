@@ -1,0 +1,25 @@
+{
+  "name": "yet-20-djs",
+  "version": "1.0.0",
+  "description": "yet 2.0 bot but it's in discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yetity/Yet-2.0-DJS.git"
+  },
+  "keywords": [
+    "djs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yetity/Yet-2.0-DJS/issues"
+  },
+  "homepage": "https://github.com/Yetity/Yet-2.0-DJS#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
