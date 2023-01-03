@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Yetity/Yet-2.0-DJS#readme",
   "dependencies": {
     "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.31.0"
   }
 }
